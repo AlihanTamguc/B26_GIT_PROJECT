@@ -4,6 +4,6 @@ public class First {
 
 
         System.out.println("First");
-        System.out.println("asdas");
+        System.out.println("help");
     }
 }
